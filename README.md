@@ -21,8 +21,8 @@ soundness-cli generate-key --name my-key
 ```
 
 - Join Discord: https://discord.gg/soundnesslabs
-➖ Go to #testnet-access Channel ▶️ Submit your Pub-Key
-➖ Format: !access <base64-encoded-public-key>
+- Go to #testnet-access Channel ▶️ Submit your Pub-Key
+- Format: !access <base64-encoded-public-key>
 
 ## DONE
 
